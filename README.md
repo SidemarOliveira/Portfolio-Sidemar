@@ -34,7 +34,7 @@ Este portfólio foi desenvolvido com atenção a cada detalhe, incluindo:
 
 ## 📸 **Demonstração do Projeto**
 Você pode conferir o projeto ao vivo clicando no link abaixo:  
-🔗 [**Acesse meu portfólio aqui**](https://seu-link-do-projeto-aqui.com)
+🔗 [**Acesse meu portfólio aqui**](https://portfolio-sidemar.netlify.app)
 <div align="center">
   <img src="https://raw.githubusercontent.com/SidemarOliveira/Portfolio-Sidemar/8e49b52b84d3a4ece837e94890b77ff10402fdb6/assets/img-portf%C3%B3lio.png" alt="Mockup do Portfólio" width="800">
 </div>  
