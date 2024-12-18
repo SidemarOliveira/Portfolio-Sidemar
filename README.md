@@ -71,7 +71,7 @@ Se você gostou do meu trabalho ou deseja conversar sobre uma oportunidade, aqui
 
 - 📧 E-mail: [sidemarsid@gmail.com](mailto:sidemarsid@gmail.com)  
 - 🌐 LinkedIn: [Sidemar Silva](https://www.linkedin.com/in/sidemar-silva)  
-- 🐙 GitHub: [@sidemarsilva](https://github.com/sidemarsilva)  
+- 🐙 GitHub: [sidemaroliveira.git](https://github.com/SidemarOliveira/SidemarOliveira.git)  
 
 ---
 
