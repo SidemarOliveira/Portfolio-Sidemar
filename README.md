@@ -21,7 +21,7 @@ Você pode conferir o projeto ao vivo clicando no link abaixo:
 ## 📸 **Demonstração do Projeto**
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400.png" alt="Demonstração do Portfólio" width="80%">
+  <img src="https://github.com/SidemarOliveira/Portfolio-Sidemar/blob/main/assets/mockup.png?raw=true" alt="Mockup do Portfólio" width="800">
 </div>  
 
 > **Nota:** Imagem representativa do projeto. Confira ao vivo para experimentar todas as funcionalidades.
