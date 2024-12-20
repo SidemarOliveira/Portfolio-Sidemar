@@ -678,7 +678,7 @@ h1 {
   .home-info {
     max-width: 90%; /* Reduz a largura para caber em telas menores */
     margin-left: auto;
-    margin-top: 150px;
+    margin-top: 80px;
     text-align: center;
   }
 
@@ -695,7 +695,7 @@ h1 {
 
   .home-image {
     max-width: 90%; /* Reduz a largura máxima */
-    margin-top: 5rem;
+    margin-top: 3rem;
   }
 
   .photo {
@@ -704,7 +704,7 @@ h1 {
   }
 
   .container-techs {
-    margin-top: 95px;
+    margin-top: 60px;
   }
 
   .container-techs h3 {
