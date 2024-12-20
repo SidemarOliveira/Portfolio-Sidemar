@@ -676,7 +676,7 @@ h1 {
   }
 
   .home-info {
-    max-width: 90%; /* Reduz a largura para caber em telas menores */
+    max-width: 310px; /* Reduz a largura para caber em telas menores */
     margin-left: auto;
     margin-top: 95px;
     text-align: center;
