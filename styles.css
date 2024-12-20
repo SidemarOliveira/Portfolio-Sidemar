@@ -691,7 +691,7 @@ h1 {
     font-size: 1.5rem;
     margin-left: 1px;
     letter-spacing: 1px;
-    animation: typing 7s steps(50, end) infinite, gradient-move 5s ease infinite; /* Ajusta o tempo das animações */
+    animation: typing 5s steps(50, end) infinite, gradient-move 7s ease infinite; /* Ajusta o tempo das animações */
   }
 
   .home-image {
