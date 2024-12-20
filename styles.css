@@ -676,9 +676,8 @@ h1 {
   }
 
   .home-info {
-    max-width: 310px; /* Reduz a largura para caber em telas menores */
+    max-width: 340px; /* Reduz a largura para caber em telas menores */
     margin-left: auto;
-    margin-top: 95px;
     text-align: center;
   }
 
@@ -688,7 +687,7 @@ h1 {
   }
 
   .home-info h2 {
-    font-size: 1.5rem;
+    font-size: 1.6rem;
     margin-left: 1px;
     letter-spacing: 1px;
     animation: typing 5s steps(50, end) infinite, gradient-move 7s ease infinite; /* Ajusta o tempo das animações */
@@ -716,6 +715,7 @@ h1 {
   .icons-techs {
     gap: 0rem;
     margin-top: 1rem;
+    margin-left: 10px;
   }
 
   .icons-techs li {
