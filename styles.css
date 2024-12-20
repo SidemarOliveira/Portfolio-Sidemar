@@ -694,6 +694,7 @@ h1 {
 
   .home-image {
     max-width: 90%; /* Reduz a largura máxima */
+    margin-top: 15px;
   
   }
 
@@ -718,7 +719,8 @@ h1 {
   }
 
   .icons-techs li {
-    padding: 0px 0px 0px 24px;
+    padding: 15px;
+    margin: 0 auto;
   }
 
   .icons-techs li img {
