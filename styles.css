@@ -688,7 +688,6 @@ h1 {
 
   .home-info h2 {
     font-size: 1.6rem;
-    margin-left: 1px;
     letter-spacing: 1px;
     animation: typing 5s steps(50, end) infinite, gradient-move 7s ease infinite; /* Ajusta o tempo das animações */
   }
@@ -715,11 +714,11 @@ h1 {
   .icons-techs {
     gap: 0rem;
     margin-top: 1rem;
-    margin-left: 10px;
+    margin-left: 6px;
   }
 
   .icons-techs li {
-    padding: 0px 35px 0 0;
+    padding: 0px 0px 0px 24px;
   }
 
   .icons-techs li img {
