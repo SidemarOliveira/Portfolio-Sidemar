@@ -678,7 +678,7 @@ h1 {
   .home-info {
     max-width: 90%; /* Reduz a largura para caber em telas menores */
     margin-left: auto;
-    margin-top: 80px;
+    margin-top: 95px;
     text-align: center;
   }
 
@@ -689,8 +689,9 @@ h1 {
 
   .home-info h2 {
     font-size: 1.5rem;
+    margin-left: 1px;
     letter-spacing: 1px;
-    animation: typing 5s steps(50, end) infinite, gradient-move 5s ease infinite; /* Ajusta o tempo das animações */
+    animation: typing 7s steps(50, end) infinite, gradient-move 5s ease infinite; /* Ajusta o tempo das animações */
   }
 
   .home-image {
