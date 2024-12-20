@@ -688,7 +688,7 @@ h1 {
 
   .home-info h2 {
     font-size: 1.6rem;
-    letter-spacing: 1px;
+    letter-spacing: 0.8px;
     animation: typing 5s steps(50, end) infinite, gradient-move 7s ease infinite; /* Ajusta o tempo das animações */
   }
 
