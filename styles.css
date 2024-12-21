@@ -692,7 +692,7 @@ h1 {
     
     text-align: justify;
     font-size: 19px;
-    letter-spacing: 1.5px;
+    letter-spacing: 0.8px;
     animation: typing 5s steps(50, end) infinite, gradient-move 7s ease infinite; /* Ajusta o tempo das animações */
   }
 
