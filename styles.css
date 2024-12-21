@@ -674,7 +674,7 @@ h1 {
   .home {
     flex-direction: column;
     padding: 2rem 1.5rem;
-    margin-bottom: 50px;
+
   }
 
   .home-info {
@@ -689,7 +689,6 @@ h1 {
   }
 
   .home-info h2 {
-    
     text-align: justify;
     font-size: 19px;
     letter-spacing: 0.8px;
@@ -783,7 +782,7 @@ h1 {
   }
 
   .text p {
-    font-size: 1.8rem;
+    font-size: 1.6rem;
     text-align: center;
   }
 
